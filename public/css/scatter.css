@@ -1,0 +1,17 @@
+.tau-chart__legend__guide--color.color-a,
+.color-a {
+  fill: #ff0000;
+  background-color: #ff0000;
+}
+
+.tau-chart__legend__guide--color.color-b,
+.color-b {
+  fill: #ffae00;
+  background-color:#ffae00;
+}
+
+.tau-chart__legend__guide--color.color-c,
+.color-c {
+  fill: #6fff00;
+  background-color:#6fff00;
+}
